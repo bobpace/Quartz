@@ -1,5 +1,4 @@
-﻿using System.Threading;
-using FubuTestingSupport;
+﻿using FubuTestingSupport;
 using NUnit.Framework;
 
 namespace Host.Tests
